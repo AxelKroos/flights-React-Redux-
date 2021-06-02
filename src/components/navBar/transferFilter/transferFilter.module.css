@@ -1,0 +1,8 @@
+.AllTransferFilter {
+    display: grid;
+    grid-template-columns: 0.5fr;
+}
+
+.TransferFilter {
+    float: left;
+}

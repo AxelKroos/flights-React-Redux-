@@ -1,3 +1,7 @@
 input {
     cursor: pointer;
 }
+
+.AscendingSort {
+    float: left;
+}

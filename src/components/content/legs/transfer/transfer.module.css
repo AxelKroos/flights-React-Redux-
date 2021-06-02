@@ -1,0 +1,19 @@
+.transfer {
+    display: grid;
+    grid-template-columns: 3fr 1fr 3fr;
+    color: orange;
+}
+
+.transfer hr {
+    width: 90%;
+    margin: 10px auto;
+    padding: 0;
+    height: 0;
+    border: none;
+    border-top: 1px solid #685f5f;
+}
+
+.transfer p {
+    font-size: 14px;
+    margin: 0;
+}

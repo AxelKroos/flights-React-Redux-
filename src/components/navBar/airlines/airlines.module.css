@@ -1,0 +1,12 @@
+.result {
+    margin: 20px 0;
+    text-overflow: ellipsis;
+    overflow: hidden;
+    white-space: nowrap;
+    width: 250px;
+}
+
+.elems {
+    display: inline-block;
+    float: left;
+}

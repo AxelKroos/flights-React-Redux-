@@ -1,0 +1,14 @@
+.price {
+    float: right;
+    margin-right: 20px;
+    font-size: 130%;
+}
+
+span {
+    position: relative;
+    left: 70px;
+}
+
+p {
+    font-size: 10px;
+}

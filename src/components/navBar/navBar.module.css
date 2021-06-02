@@ -1,0 +1,7 @@
+.navBar {
+    display: grid;
+    height: 500px;
+    margin: 0 10px 50px 10px;
+    grid-column-start: 1;
+    grid-template-rows: 1fr 1fr 1fr 1fr;
+}

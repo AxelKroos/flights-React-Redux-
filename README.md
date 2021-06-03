@@ -1,3 +1,18 @@
+# Просмотр авиарейсов :airplane: :clock12:
+
+### Стек: React+Redux
+![FVDj0uhK](https://user-images.githubusercontent.com/79835478/120606731-2f05af80-c458-11eb-915a-7c25a917ba44.jpg)
+
+### Возможности:
+
+- :heavy_check_mark: Кнопка "Показать ещё" выводит по 2 билета дополнительно
+- :heavy_check_mark: Фильтрация по возрастанию/убыванию цены
+- :heavy_check_mark: Фильтрация по времени туда/обратно
+- :heavy_check_mark: Фильтрация по пересадкам
+- :heavy_check_mark: Фильтрация по стоимости 
+
+## ВНИМАНИЕ! Проект не закончен, делается последний фильтр по авиакомпаниям.
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
